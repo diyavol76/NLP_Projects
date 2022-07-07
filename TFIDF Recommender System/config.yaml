@@ -1,0 +1,3 @@
+DATA:
+  DATA_PATH: 'D:\git-repos\NLP_Projects\Datasets'
+  DATA_NAME: 'tmdb_5000_movies.csv'
